@@ -1,26 +1,38 @@
-# 🚀 Hướng Dẫn Bắt Đầu Nhanh với TaskFlow
+# 📘 QUICK-START GUIDE – TaskFlow
 
-**TaskFlow** là một ứng dụng quản lý công việc đơn giản, cho phép bạn tạo, theo dõi và hoàn thành các nhiệm vụ cá nhân hoặc nhóm một cách hiệu quả.
-
----
-
-## 🖥️ Yêu Cầu Hệ Thống
-
-- Node.js >= 14
-- Trình duyệt hiện đại (Chrome, Firefox, Edge)
-- Kết nối Internet (đối với bản web)
+**TaskFlow** là một ứng dụng quản lý công việc đơn giản, hiệu quả và hiện đại, hỗ trợ bạn theo dõi tiến độ công việc cá nhân hoặc nhóm một cách trực quan.
 
 ---
 
-## ⚙️ Cài Đặt Nhanh (Dành cho Developer)
+## 🚀 Giới Thiệu Nhanh
+
+TaskFlow giúp bạn:
+- Tạo và phân loại công việc
+- Theo dõi tiến độ bằng giao diện Kanban
+- Cộng tác nhóm linh hoạt
+- Đồng bộ hóa trên mọi thiết bị
+
+---
+
+## ⚙️ Yêu Cầu Hệ Thống
+
+| Thành phần     | Yêu cầu tối thiểu        |
+|----------------|--------------------------|
+| Node.js        | v14 hoặc mới hơn         |
+| Trình duyệt     | Chrome, Firefox, Edge    |
+| Hệ điều hành    | Windows / macOS / Linux |
+
+---
+
+## 🛠️ Cài Đặt Nhanh (Dành cho Developer)
 
 ```bash
-# Clone repository
-git clone https://github.com/username/taskflow.git
+# 1. Clone repository
+git clone https://github.com/your-username/taskflow.git
 cd taskflow
 
-# Cài đặt thư viện
+# 2. Cài đặt thư viện
 npm install
 
-# Khởi chạy ứng dụng
+# 3. Chạy ứng dụng
 npm run dev
