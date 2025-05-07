@@ -2,7 +2,9 @@
 
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/3171de9f-9ece-4c4d-9ab0-7716956cc172)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5059fbc-e5a6-40b7-bd9b-11ab4ffa604b" alt="TaskFlow Logo">
+</p>
 
 
 **Simple. Efficient. Modern.**
